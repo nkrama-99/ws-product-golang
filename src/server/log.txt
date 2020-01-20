@@ -1,0 +1,5 @@
+LOGS FOR CLICKS AND VIEWS...
+sports 2020-01-20 16:28 {view: 1 clicks: 1}
+entertainment 2020-01-20 16:28 {view: 2 clicks: 1}
+business 2020-01-20 16:28 {view: 2 clicks: 2}
+education 2020-01-20 16:28 {view: 1 clicks: 1}
